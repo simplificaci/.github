@@ -1,5 +1,5 @@
 ## Hi there, we are SimplificaCI
-![image info](https://scontent.fsjp7-1.fna.fbcdn.net/v/t1.6435-9/81029245_2700578996675857_5002078763014422528_n.png?_nc_cat=110&ccb=1-5&_nc_sid=6e5ad9&_nc_ohc=UnU0OHcW4okAX9X3IDF&_nc_ht=scontent.fsjp7-1.fna&oh=768a8065536dbeb88e91315b798dba4f&oe=61789A78)
+![image info](https://scontent.fsjp7-1.fna.fbcdn.net/v/t1.6435-9/81029245_2700578996675857_5002078763014422528_n.png?_nc_cat=110&ccb=1-5&_nc_sid=6e5ad9&_nc_ohc=46SAr-shQWgAX8QzESN&_nc_ht=scontent.fsjp7-1.fna&oh=00_AT91hjmJIuYwJ1k_6IK9zZVciyzGIlQp7vMd-wVASP0AWQ&oe=61FB1EF8)
 
 
 <!--
