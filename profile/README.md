@@ -1,5 +1,5 @@
 ## Hi there, we are SimplificaCI
-![image info](cover.png)
+![image info](/profile/cover.png)
 
 
 <!--
